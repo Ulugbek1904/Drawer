@@ -11,6 +11,6 @@ This is a C# console application that allows users to draw various shapes (trian
 - Option to continue drawing additional shapes or exit the program.
 
 ## code 
-![picture](C:\Users\user\Desktop\Drawer\pictures)
-![picture](C:\Users\user\Desktop\Drawer\pictures)
-![picture](C:\Users\user\Desktop\Drawer\pictures)
+![picture](picture1)
+![picture](picture2)
+![picture](picture3)
