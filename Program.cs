@@ -12,7 +12,7 @@ namespace Drawer
 
             bool continueDrawing = true;
 
-            // while orqali biz dasturni qachin tugashini optional qila olamiz
+            // while orqali biz dasturni qachon tugashini optional qila olamiz
 
             while(continueDrawing)
             {
